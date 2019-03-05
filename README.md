@@ -13,11 +13,11 @@ Contains 28 masked features + Time + Amount. 284,807 transactions, 492 frauds (0
 Splitting: 200,000 training, 50,000 for validation, 34,807 for test
 
 ## Final Models Summary:
-![Final Models]()
+![Final Models](https://github.com/Sikhadasr/Credit-Card-Fraud-Detection/blob/master/Images/Final%20Models.PNG)
 
 ## Other Models Summary:
 
-![Other Models]()
+![Other Models](https://github.com/Sikhadasr/Credit-Card-Fraud-Detection/blob/master/Images/Other%20Models.PNG)
 
 ## Conclusion:
 As seen from above the cost for final models  is minimized about 6 to 78 times compared tp other  models by minimizing the False Positives.Therefore in fraud detection , taking care of the false positives is as important as taking care of the frauds. 
